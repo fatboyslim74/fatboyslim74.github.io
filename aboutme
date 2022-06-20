@@ -1,0 +1,14 @@
+---
+layout: default
+title: About Hank Quinlan
+---
+
+		<div class="about">
+			<h1>About</h1>
+			<p>A professional who enjoys collaborating with people of different backgrounds. Championed sharing ideas as a team lead driven to achieve perfection and create avenues for innovation. Winner of Launchpad 2022 Business Hackathon conducted by the University of Bath</p>
+
+			<ul class="contacts">
+				<li><a href="#">@TwitterHandle</a></li>
+				<li><a href="#">Your Departmental Webpage</a></li>
+				<li><a href="#">Another site you want to link to</a></li>
+				</ul>
