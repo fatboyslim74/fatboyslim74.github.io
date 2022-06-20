@@ -1,0 +1,16 @@
+---
+layout: default
+title: Portfolio
+---
+
+		<div class="portfolio">
+    <a href="#" class="download" title="Download Portfolio as PDF">Download Portfolio</a>	
+			<h1>Portfolio</h1>
+			<p>A design portfolio is able to be downloaded as a pdf here. It show cases different designs that have been made so far for different environments.</p>
+
+			<ul class="contacts">
+				<li><a href="#">@TwitterHandle</a></li>
+				<li><a href="#">Your Departmental Webpage</a></li>
+				<li><a href="#">Another site you want to link to</a></li>
+				</ul>
+		</div>
