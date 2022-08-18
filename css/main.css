@@ -27,3 +27,11 @@ ul.posts li { list-style: none; }
 .cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
+
+/* Portfolio */
+.portfolio { margin: 0px 0px 60px; }
+.portfolio h1 { font-size: 3em; }
+.portfolio h2 { font-size: 2em; }
+.portfolio address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
+.portfolio address, .cv p { font-size: 1.2em; }
+.portfolio .download { float: right; font-size: .8em; text-transform: uppercase; }
