@@ -33,5 +33,5 @@ ul.posts li { list-style: none; }
 .portfolio h1 { font-size: 3em; }
 .portfolio h2 { font-size: 2em; }
 .portfolio address, .portfolio .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
-.portfolio address, .portfolio p { font-size: 1.2em; }
+.portfolio address, .portfolio p { font-size: 2em; }
 .portfolio .download { float: right; font-size: .8em; text-transform: uppercase; }
